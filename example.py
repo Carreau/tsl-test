@@ -1,2 +1,3 @@
 from tree_sitter_languages import get_parser
-get_parser('rst')
+
+print(get_parser("rst"))
